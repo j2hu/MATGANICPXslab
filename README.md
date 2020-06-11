@@ -2,12 +2,12 @@ MATGANICPXslab
 ==============
 Mat-GAN
 --------------
-train-set:
+train-set: `00000` `00002` `00004`
 
-test-set:
+test-set: the other samples
 
 GCN
 --------
-train-set:
+train-set: from `00000` to `00499`
 
-test-set:
+test-set:  from `00500` to `00999`
